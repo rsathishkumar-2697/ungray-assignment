@@ -1,0 +1,45 @@
+.left-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20vw;
+  height: 50%;
+  background-color: white;
+  padding: 20px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.score-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+
+.out-of {
+  margin-top: 0px;
+  font-size: 12px;
+  color: grey;
+}
+
+.score-info h3{
+  font-size: 17px;
+}
+
+.para{
+  color:grey;
+  font-size:13px; 
+
+}
+
+.score-info button{
+background-color: transparent;
+border: 1px solid rgb(223, 216, 216);
+border-radius: 20px;
+margin: 5px;
+padding: 10px;
+}
+ 
